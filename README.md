@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Full-Stack Software Developer</h3
 <img align=“right” alt="coding" width="400" src="https://tenor.com/view/coding-girl-gif-2332171326726785246">
 
-https://tenor.com/view/coding-girl-gif-2332171326726785246
 
 
 
