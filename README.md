@@ -3,7 +3,9 @@
 <h3 align="center">A passionate Full-Stack Software Developer</h3
 <img align=“right” alt="coding" width="400" src="https://tenor.com/view/coding-girl-gif-2332171326726785246">
 
+As a software developer with a unique blend of technical expertise and creative experience, I thrive at the intersection of code and content. With a strong foundation in Python, JavaScript, Flask, SQLAlchemy, React, CSS, HTML, and Node.js, I build dynamic, user-centric web applications that deliver seamless experiences. My 6 years of experience in marketing and content creation for social media allow me to approach problem-solving with a creative mindset, ensuring that my solutions are not only functional but also visually compelling and engaging.
 
+Passionate about learning and continuously evolving, I am committed to refining my skills and exploring new technologies. My journey from content creation to software development has equipped me with a unique perspective, enabling me to craft digital solutions that resonate with users and drive results.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madamsagas&label=Profile%20views&color=0e75b6&style=flat" alt="madamsagas" /> </p>
