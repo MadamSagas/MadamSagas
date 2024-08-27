@@ -5,7 +5,7 @@
 
 https://tenor.com/view/coding-girl-gif-2332171326726785246
 
-[![MasterHead]()]
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madamsagas&label=Profile%20views&color=0e75b6&style=flat" alt="madamsagas" /> </p>
 
